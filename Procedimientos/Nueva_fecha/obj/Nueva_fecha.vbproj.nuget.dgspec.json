@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\AhoraEs\\AhoraEs.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\AhoraEs\\AhoraEs.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\AhoraEs\\AhoraEs.vbproj",
-        "projectName": "AhoraEs",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\AhoraEs\\AhoraEs.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj",
+        "projectName": "Nueva_fecha",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\AhoraEs\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-santiagodelro\\Procedimientos\\Nueva_fecha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
