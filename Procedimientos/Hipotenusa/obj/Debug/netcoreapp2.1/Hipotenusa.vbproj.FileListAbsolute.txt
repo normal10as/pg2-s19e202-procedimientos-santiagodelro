@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.vbprojAssemblyReference.cache
