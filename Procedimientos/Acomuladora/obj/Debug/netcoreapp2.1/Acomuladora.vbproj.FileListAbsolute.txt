@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\bin\Debug\netcoreapp2.1\Acomuladora.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\bin\Debug\netcoreapp2.1\Acomuladora.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\bin\Debug\netcoreapp2.1\Acomuladora.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\bin\Debug\netcoreapp2.1\Acomuladora.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\bin\Debug\netcoreapp2.1\Acomuladora.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\obj\Debug\netcoreapp2.1\Acomuladora.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\obj\Debug\netcoreapp2.1\Acomuladora.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\obj\Debug\netcoreapp2.1\Acomuladora.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\obj\Debug\netcoreapp2.1\Acomuladora.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\obj\Debug\netcoreapp2.1\Acomuladora.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Acomuladora\obj\Debug\netcoreapp2.1\Acomuladora.vbprojAssemblyReference.cache
