@@ -1,6 +1,6 @@
 Imports System
 Imports System.Math
-Module Hipótenusa
+Module Hipotenusa
     Sub Main(args As String())
         Console.WriteLine(hipotenusa())
     End Sub
