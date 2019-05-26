@@ -1,21 +1,26 @@
 Imports System
 
 Module Acumuladora
-
+    Friend numero As Decimal
     Sub Main(args As String())
-        Acomulador()
-
+        Dim aco As Integer
+        Call Acomulador()
+        aco += numero
+        Console.WriteLine(aco)
+        Call Acomulador()
+        aco += numero
+        Console.WriteLine(aco)
+        Call Acomulador()
+        aco += numero
+        Console.WriteLine(aco)
     End Sub
-    Friend Sub Acomulador()
-        Dim numero As Decimal
+    Sub Acomulador()
+
         Console.Write("Ingrese un Numero: ")
-        numero = Console.ReadLine()
-        numero += numero
-        Console.WriteLine(numero)
-        numero += numero
-        Console.WriteLine(numero)
-        numero += numero
-        Console.WriteLine(numero)
+        numero = Console.ReadLine
+
+
+
     End Sub
 
 
