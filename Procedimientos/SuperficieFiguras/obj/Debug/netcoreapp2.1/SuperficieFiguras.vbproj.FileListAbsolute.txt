@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.vbprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.pdb
