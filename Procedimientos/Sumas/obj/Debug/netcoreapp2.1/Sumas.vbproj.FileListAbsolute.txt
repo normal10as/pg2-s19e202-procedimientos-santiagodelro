@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.vbprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-santiagodelro\Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.pdb
